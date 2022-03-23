@@ -1,4 +1,4 @@
-package io.gitbook.checksound.corsoJava.eserciziThreads;
+package io.checksound.esercizithreads;
 
 public class Counter extends Thread {
 	
