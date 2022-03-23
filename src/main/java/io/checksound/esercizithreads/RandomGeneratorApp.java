@@ -13,6 +13,9 @@ public class RandomGeneratorApp {
 		System.out.println("MANDO SEGNALE INTERRUZIONE AL THREAD!!!");
 		rgT.interrupt();
 		
+		// aspetto che il thread termini
+		rgT.join();
+		System.out.println("APPLICAZIONE TERMINATA!!!");
 	}
 
 }
