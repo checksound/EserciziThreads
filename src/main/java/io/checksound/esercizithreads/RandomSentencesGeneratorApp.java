@@ -3,7 +3,7 @@ package io.checksound.esercizithreads;
 import java.util.Scanner;
 import static java.lang.System.out;
 
-public class RandomGeneratorApp2 {
+public class RandomSentencesGeneratorApp {
 
 	public static void main(String[] args) throws InterruptedException {
 		
@@ -17,7 +17,7 @@ public class RandomGeneratorApp2 {
 			input = in.next();
 		}
 		
-		RandomNumberGenerator rgT = new RandomNumberGenerator();
+		RandomSentencesGenerator rgT = new RandomSentencesGenerator();
 		rgT.start();
 	
 		// lo interrompo dopo 10 secondi

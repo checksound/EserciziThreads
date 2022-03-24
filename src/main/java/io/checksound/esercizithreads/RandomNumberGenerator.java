@@ -2,7 +2,7 @@ package io.checksound.esercizithreads;
 
 import java.util.Random;
 
-public class RandomGenerator extends Thread {
+public class RandomNumberGenerator extends Thread {
 
 	@Override
 	public void run() {

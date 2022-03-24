@@ -3,7 +3,7 @@ package io.checksound.esercizithreads;
 import java.util.Scanner;
 import static java.lang.System.out;
 
-public class RandomGeneratorApp2 {
+public class RandomGeneratorApp3 {
 
 	public static void main(String[] args) throws InterruptedException {
 		

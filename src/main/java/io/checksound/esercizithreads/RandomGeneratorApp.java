@@ -4,7 +4,7 @@ public class RandomGeneratorApp {
 
 	public static void main(String[] args) throws InterruptedException {
 		
-		RandomGenerator rgT = new RandomGenerator();
+		RandomNumberGenerator rgT = new RandomNumberGenerator();
 		rgT.start();
 	
 		// lo interrompo dopo 10 secondi
