@@ -12,7 +12,7 @@ public class CounterAppWithJoin {
 		c1.join();
 		c2.join();
 		
-		System.out.println("SONO IN MAIN");
+		System.out.println("SONO A FINE MAIN");
 	}
 
 }

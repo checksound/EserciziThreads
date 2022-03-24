@@ -5,9 +5,7 @@ Il thread contatore [io.checksound.esercizithreads.Counter](./src/main/java/io/c
 Visto esempio con utilizzo di **interrupt()** per inviare messaggio di interrupt, vedi: [io.checksound.esercizithreads.RandomNumberGenerator](./src/main/java/io/checksound/esercizithreads/RandomNumberGenerator.java), [io.checksound.esercizithreads.RandomGeneratorApp](./src/main/java/io/checksound/esercizithreads/RandomGeneratorApp.java): il metodo **interrupt()** viene invocato per stoppare il thread *RandomGenerator* dopo 10 secondi.
 
 Vedi anche [io.checksound.esercizithreads.RandomGeneratorApp2](./src/main/java/io/checksound/esercizithreads/RandomGeneratorApp2.java) che da 
-standard input prende i comandi di start e di stop del thread.
-
-**TODO:**[io.checksound.esercizithreads.RandomGeneratorApp3](./src/main/java/io/checksound/esercizithreads/RandomGeneratorApp3.java) in cui è possibile da riga di comando passare il numero di contatori da crare che contano in parallelo.
+*standard input* prende i comandi di start e di stop del thread.
 
 ## Generatore di sentenze
 
