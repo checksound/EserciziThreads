@@ -1,4 +1,4 @@
-package io.checksound.esercizithreads;
+package esercizithread.interrupt;
 
 import java.util.List;
 import java.util.Random;

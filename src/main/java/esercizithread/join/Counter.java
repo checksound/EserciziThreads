@@ -1,4 +1,4 @@
-package io.checksound.esercizithreads;
+package esercizithread.join;
 
 public class Counter extends Thread {
 	

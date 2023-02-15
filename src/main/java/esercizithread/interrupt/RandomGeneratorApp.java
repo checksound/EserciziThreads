@@ -1,4 +1,4 @@
-package io.checksound.esercizithreads;
+package esercizithread.interrupt;
 
 public class RandomGeneratorApp {
 
